@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w-1TMyF5ZO5eqGDd21DP-40" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;P u b G P T&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=0;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="230" y="-1100" width="1100" height="800" as="geometry" />
+        </mxCell>
         <mxCell id="w-1TMyF5ZO5eqGDd21DP-32" value="local LLM" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="557" y="-600" width="193" height="200" as="geometry" />
         </mxCell>
@@ -607,18 +610,6 @@
         </mxCell>
         <mxCell id="w-1TMyF5ZO5eqGDd21DP-22" value="&lt;div style=&quot;color: rgb(214, 214, 221); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(227, 148, 220);&quot;&gt;queryer&lt;/span&gt;&lt;/div&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="384.5" y="-474" width="85.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w-1TMyF5ZO5eqGDd21DP-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="323.5" y="-120" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="w-1TMyF5ZO5eqGDd21DP-24" value="" style="line;strokeWidth=1;direction=south;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-139" width="10" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="w-1TMyF5ZO5eqGDd21DP-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.308;exitY=0.925;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330.96000000000004" y="-145.24999999999977" as="sourcePoint" />
-            <mxPoint x="330.83" y="-80" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="w-1TMyF5ZO5eqGDd21DP-30" value="&lt;div style=&quot;color: rgb(214, 214, 221); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(227, 148, 220);&quot;&gt;gemma2:2b&lt;/span&gt;&lt;/div&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="577" y="-562" width="150" height="30" as="geometry" />
