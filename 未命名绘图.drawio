@@ -1339,7 +1339,7 @@
         <mxCell id="L0e4AbKhRJBRN0w0vdIy-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="L0e4AbKhRJBRN0w0vdIy-2">
           <mxGeometry x="333" y="749.5" width="32.89" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="L0e4AbKhRJBRN0w0vdIy-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;strokeWidth=6;strokeColor=light-dark(#aba7dc, #ededed);" vertex="1" parent="L0e4AbKhRJBRN0w0vdIy-2">
+        <mxCell id="L0e4AbKhRJBRN0w0vdIy-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;strokeWidth=4;strokeColor=light-dark(#aba7dc, #ededed);" vertex="1" parent="L0e4AbKhRJBRN0w0vdIy-2">
           <mxGeometry x="556" y="732.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L0e4AbKhRJBRN0w0vdIy-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;strokeColor=light-dark(#aba7dc, #ededed);entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="L0e4AbKhRJBRN0w0vdIy-2">
